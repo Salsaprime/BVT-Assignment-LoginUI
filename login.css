@@ -52,6 +52,10 @@ button {
     margin: 0px 40px 0px 40px;
 }
 
+button:hover {
+    background-color: #2D5493;
+}
+
 h1 {
     margin-bottom: -10px;
     display: flex;
