@@ -28,6 +28,7 @@ html,body{
 form {
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
 }
 
 input, button {
